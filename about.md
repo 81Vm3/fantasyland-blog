@@ -4,13 +4,13 @@ title: 欢迎来到幻想城!
 subheading: 一个多元化的SAMP自由服
 author: Blume
 banner:
-    video: https://vjs.zencdn.net/v/oceans.mp4
+    video: "/assets/videos/intro.mp4"
     loop: true
     volume: 0.8
     start_at: 8.5
-    image: https://bit.ly/3xTmdUP
     opacity: 0.618
     background: "#000"
+    image: "/assets/images/banners/home.jpg"
     height: "100vh"
     min_height: "38vh"
     heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
@@ -19,56 +19,31 @@ banner:
 ---
 
 <div markdown="1">
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+幻想城是一个以自由玩法为主，多种混合玩法为辅的服务器。服务器全盘专注于玩家的游戏体验，以及玩家在服务器中的探索
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## 历史由来：
+2018年暑假，幻想城诞生了。服务器玩法丰富，历史最高在线记录可达21人。然而不幸的是，因为网络攻击，幻想城被迫停运。
+2022年，幻想城被从头到尾地改造了一番，去除了老旧的且陈腐的功能，以崭新面貌重新出现在SA-MP玩家们面前
 
-## section 1
+## 自由模式
+服务器的自由模式玩法十分丰富，涵盖赛车，特技，传送，房屋，爱车，装备；各项功能交互性和访问性都非常强，
+玩家能够非常轻松地接触到各种自由服的玩法，例如：随时随地在全服发起赛车邀请，自主创建玩家传送，免费的玩家装扮。
 
-Jekyll also offers powerful support for code snippets:
+## TDM 模式
+多种TDM游戏围绕不同的元素和主题开展。基于自由模式的可访问性，玩家几乎是无门槛地加入和离开TDM游戏。
+沙尘中的战争，帮派间的火并，赌场中的劫案
 
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## DM 模式
+经典DM模式，支持沙鹰DM，跑打DM。服务器还具有详细的伤害显示系统
+除了自带的DM外，玩家甚至可以创建自己的DM房间，与好友训练枪技
 
-## section 2
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## Derby 模式
+Derby模式我们俗称为碰碰车，你可以在服务器里体验到车辆碰撞的猛烈快感
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
 
-$ a \* b = c ^ b $
+## RPG元素
+2022年的幻想城加入了一系列RPG元素，这些是以前从未有过的
 
-$ 2^{\frac{n-1}{3}} $
 
-$ \int_a^b f(x)\,dx. $
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << "Hello World!";
-    return 0;
-}
-// prints 'Hi, Tom' to STDOUT.
-```
-
-```python
-class Person:
-    def __init__(self, name, age):
-    self.name = name
-    self.age = age
-
-p1 = Person("John", 36)
-
-print(p1.name)
-print(p1.age)
-```
 </div>
