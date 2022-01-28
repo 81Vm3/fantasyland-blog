@@ -1,0 +1,21 @@
+I"�<p>bug修复:</p>
+<ul>
+  <li>添加/raceback 命令，赛车时可以返回上一个检查点</li>
+  <li>避免了创建自定义DM房间时，位置为0的情况</li>
+  <li>反作弊灵敏度下降</li>
+  <li>修复了Tab里面，玩家注册日期相同的bug</li>
+</ul>
+
+<p>调整:</p>
+<ul>
+  <li>创建传送的时间分下降到120，在幻想城待上两个小时的玩家即可创建传送 (指令/tele)</li>
+</ul>
+
+<p>添加:</p>
+<ul>
+  <li>添加TDM游戏 赌场豪劫 /cas</li>
+  <li>添加 死亡体育场 /stadium （可修理车辆，你能生存多久？）</li>
+</ul>
+
+<p><img src="http://www.unexpected-vortices.com/sw/rippledoc/example-image.jpg" alt="" title="An exemplary image" /></p>
+:ET
