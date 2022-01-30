@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022年1月31日 重大bug修复以及更新
+title: 2022年1月30日 重大bug修复以及更新
 subtitle: 修复bug和添加功能
 categories: 服务器更新
 tags: [更新]

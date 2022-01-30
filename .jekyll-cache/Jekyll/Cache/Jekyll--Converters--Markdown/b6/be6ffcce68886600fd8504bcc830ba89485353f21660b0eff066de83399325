@@ -1,0 +1,21 @@
+I"`<h2 id="添加">添加:</h2>
+<ul>
+  <li>广告牌 /sign，支持多种广告牌</li>
+  <li>近乎保姆级的新手帮助系统</li>
+  <li>称号 (赞助服务器获得)</li>
+  <li>玩家进入游戏时可以看到服务器群和官网的信息</li>
+</ul>
+
+<h2 id="bug修复">bug修复:</h2>
+<ul>
+  <li>重大内存bug修复，此bug曾导致钓鱼文字不显示，农场作物不显示，车辆文字错乱</li>
+  <li>再次优化反作弊</li>
+</ul>
+
+<h2 id="调整">调整:</h2>
+<ul>
+  <li>挖矿的GameText显示为英文</li>
+</ul>
+
+<p><img src="/assets/images/screenshots/sa-mp-052.png" alt="" /></p>
+:ET
