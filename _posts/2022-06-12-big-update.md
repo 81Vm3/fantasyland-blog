@@ -30,3 +30,5 @@ tags: [更新]
 ## 修改:
  * 简化命令，去掉一些命令的英文
  * 房子车库问题
+
+![](/assets/images/screenshots/sa-mp-134.png)
