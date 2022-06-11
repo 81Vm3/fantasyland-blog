@@ -1,0 +1,15 @@
+I"F<h2 id="添加">添加:</h2>
+<ul>
+  <li>账户绑定邮箱功能</li>
+  <li>找回密码功能</li>
+  <li>开始允许玩家在服务器创建赛道，输入 /editrace</li>
+  <li>基本的家具系统，按<strong>H</strong>与家具互动</li>
+  <li>家具市场 /jjsc，每30分钟随机刷新10个家具，价格随机波动</li>
+  <li>房内调整家具 /adjust</li>
+  <li>新增一大堆特级地图</li>
+  <li>新地图 - 丛林 /jungle</li>
+  <li>两个特别大的特技地图 - /inf /volcano</li>
+  <li>添加一些新纹理</li>
+  <li>修复BOSS和登陆音乐</li>
+</ul>
+:ET
