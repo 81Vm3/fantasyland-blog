@@ -1,0 +1,218 @@
+I"=<p>战利品宝箱是钓鱼和偷车时有机会钓到的摸彩袋类物品，包含着随机的战利品，比如矿石、道具、和其他物品。</p>
+
+<p>相对来说，钓鱼可以更快速地获得宝箱，钓鱼的CD比偷车的CD短了数十倍</p>
+
+<h2 id="普通战利品宝箱">普通战利品宝箱</h2>
+
+<p><img src="/assets/images/common_crate.jpg" alt="" /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>物品</th>
+      <th>概率</th>
+      <th>数量</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>苹果</td>
+      <td>%35</td>
+      <td>1-2</td>
+    </tr>
+    <tr>
+      <td>垃圾</td>
+      <td>%35</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>广氏菠萝啤</td>
+      <td>%35</td>
+      <td>1-2</td>
+    </tr>
+    <tr>
+      <td>木材</td>
+      <td>%35</td>
+      <td>1-2</td>
+    </tr>
+    <tr>
+      <td>鱼</td>
+      <td>%35</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>铜矿</td>
+      <td>%35</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>黄金鲷</td>
+      <td>%35</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>金矿</td>
+      <td>%20</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>铁矿</td>
+      <td>%20</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>火药</td>
+      <td>%20</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>火焰花</td>
+      <td>%10</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="稀有战利品宝箱">稀有战利品宝箱</h2>
+
+<p><img src="/assets/images/rare_crate.jpg" alt="" /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>物品</th>
+      <th>概率</th>
+      <th>数量</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>苹果</td>
+      <td>%35</td>
+      <td>1-2</td>
+    </tr>
+    <tr>
+      <td>垃圾</td>
+      <td>%35</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>广氏菠萝啤</td>
+      <td>%35</td>
+      <td>1-2</td>
+    </tr>
+    <tr>
+      <td>木材</td>
+      <td>%35</td>
+      <td>1-2</td>
+    </tr>
+    <tr>
+      <td>鱼</td>
+      <td>%35</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>铜矿</td>
+      <td>%35</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>黄金鲷</td>
+      <td>%35</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>金矿</td>
+      <td>%20</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>铁矿</td>
+      <td>%20</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>火药</td>
+      <td>%20</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>火焰花</td>
+      <td>%10</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="超级战利品宝箱">超级战利品宝箱</h2>
+
+<p><img src="/assets/images/epic_crate.jpg" alt="" /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>物品</th>
+      <th>概率</th>
+      <th>数量</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>苹果</td>
+      <td>%35</td>
+      <td>1-2</td>
+    </tr>
+    <tr>
+      <td>垃圾</td>
+      <td>%35</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>广氏菠萝啤</td>
+      <td>%35</td>
+      <td>1-2</td>
+    </tr>
+    <tr>
+      <td>木材</td>
+      <td>%35</td>
+      <td>1-2</td>
+    </tr>
+    <tr>
+      <td>鱼</td>
+      <td>%35</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>铜矿</td>
+      <td>%35</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>黄金鲷</td>
+      <td>%35</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>金矿</td>
+      <td>%20</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>铁矿</td>
+      <td>%20</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>火药</td>
+      <td>%20</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>火焰花</td>
+      <td>%10</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+
+:ET
